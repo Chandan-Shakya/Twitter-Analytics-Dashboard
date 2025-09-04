@@ -1,4 +1,6 @@
 # Twitter-Analytics-Dashboard
+
+
 This is all about my Power BI Projects.
 # 📊 Twitter Analytics Dashboard (Power BI)
 
@@ -43,7 +45,7 @@ SOFTWARE.
 
 
 ## 🧭 How to use
-1. Download the `.pbix` file.
+1. Download the `` file.
 2. Open it in **Power BI Desktop**.
 3. Use slicers/filters to explore KPIs and insights.
 
